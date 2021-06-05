@@ -10,7 +10,7 @@
 <channel>
 	<title>Hasrat Singh</title>
 	<atom:link href="/http://hasrat-singh.me/feed/" rel="self" type="application/rss+xml" />
-	<link>/http://hasrat-singh.me</link>
+	<link>/http://hasrat-singh.me/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 05 Jun 2021 10:56:13 +0000</lastBuildDate>
 	<language>en-CA</language>
